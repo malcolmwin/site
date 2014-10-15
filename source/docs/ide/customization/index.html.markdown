@@ -1,5 +1,5 @@
 ---
-title: Preferences & Settings
+title: "Customisation"
 class_name: docs
 full_width: true
 ---

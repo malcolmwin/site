@@ -1,5 +1,5 @@
 ---
-title: "Boxes"
+title: "Features"
 class_name: docs
 full_width: true
 ---

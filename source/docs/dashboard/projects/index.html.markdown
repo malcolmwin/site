@@ -1,5 +1,5 @@
 ---
-title: "The Dashboard"
+title: "Projects"
 class_name: docs
 full_width: true
 ---
