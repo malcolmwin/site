@@ -15,7 +15,7 @@ User Preferences are the full collection of settings that apply to you, the logg
 
 ![Codio Annotations](/img/docs/prefs-user.png)
 
-Codio allows you to fully customize all these preferences and the User level and the [Project level](docs/settings-prefs/project-prefs/).
+Codio allows you to fully customize all these preferences and the User level and the [Project level](/docs/ide/customization/project-prefs).
 
 Codio does the following to manage the final preferences for the logged in user...
 

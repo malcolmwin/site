@@ -12,8 +12,8 @@ Quick access to the following commonly used settings are available from the 'Vie
 
 Full settings can be access and managed as follows
 
-- [Account Settings](/docs/settings-prefs/account-settings/)
-- [User Preferences](/docs/settings-prefs/codio-prefs/)
-- [Project Preferences](/docs/settings-prefs/project-prefs/)
-- [Project Permissions](/docs/settings-prefs/permissions/)
+- [Account Settings](/docs/ide/customization/account-settings)
+- [User Preferences](/docs/ide/customization/codio-prefs)
+- [Project Preferences](/docs/ide/customization/project-prefs)
+- [Project Permissions](/docs/ide/customization/permissions)
 
