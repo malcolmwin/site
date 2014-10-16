@@ -11,8 +11,8 @@ Our Phonegap support provides a comfortable integration with Adobe's Phonegap Bu
 **Note:** the PhoneGap:Build free plan supports a maximum project size of 15MB and 40MB for paid plans. Account plan details can be found [here](https://build.phonegap.com/plans).  
 
 ##In this section:
-- [Authentication Token](/docs/phonegap/authtoken)
-- [Config.xml](/docs/phonegap/config)
-- [Build Area](/docs/phonegap/build)
+- [Authentication Token](/docs/ide/tools/phonegap/authtoken)
+- [Config.xml](/docs/ide/tools/phonegap/config)
+- [Build Area](/docs/ide/tools/phonegap/build)
 
 

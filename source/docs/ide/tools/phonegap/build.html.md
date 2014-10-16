@@ -4,7 +4,7 @@ class_name: docs
 full_width: true
 ---
 
-When you are ready to build your app, you press the 'Build' button in the Phonegap Build Area section. Make sure you have [created and configured your `config.xml` file](/docs/phonegap/config).
+When you are ready to build your app, you press the 'Build' button in the Phonegap Build Area section. Make sure you have [created and configured your `config.xml` file](/docs/ide/tools/phonegap/config).
 
 You should have set up your code signing keys in your Phonegap:Build account (more on keys below) and you should select which keys you wish to use for each platform you defined in your `<gap:platforms>` tag in the `config.xml` file. 
 
