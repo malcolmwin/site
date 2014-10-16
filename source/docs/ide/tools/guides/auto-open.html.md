@@ -55,7 +55,7 @@ You can also specify system commands in a new Terminal window like this
 - `#terminal: ls -al`
 
 ##Specifying a panel
-If your [layout](/docs/guides/layouts) for this page involves multiple panels, then you can also specify the panel number to display the file in.
+If your [layout](/docs/ide/tools/guides/layouts) for this page involves multiple panels, then you can also specify the panel number to display the file in.
 
 If you leave the panel field empty, then the default panel will be chosen, which is the same as 0.
 

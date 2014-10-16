@@ -15,7 +15,7 @@ For an introduction to Guides, take a look at the video below.
 <iframe src="//player.vimeo.com/video/105219223" width="600" height="370" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ##Why should I use it?
-If you are creating any type of coding tutorial or you are creating educational content using [Codio's Education features](/docs/education), then you will find this enormously helpful.
+If you are creating any type of coding tutorial or you are creating educational content using [Codio's Education features](/docs/quickstart/education), then you will find this enormously helpful.
 
 ##Key Features
 

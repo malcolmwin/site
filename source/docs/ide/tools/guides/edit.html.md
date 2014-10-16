@@ -20,7 +20,7 @@ For those of you not familiar with Markdown, it is an extremely easy way of writ
 
 When in Play Mode, your content is rendered beautifully and you can even override the default CSS styling.
 
-You can also insert [images, videos and hyperlinks](/docs/guides/imvid).
+You can also insert [images, videos and hyperlinks](/docs/ide/tools/guides/imvid).
 
 Here is a summary of the Markdown formatting codes
 
@@ -95,7 +95,7 @@ If I want to indent a list, then indent just 2 spaces and it will indent.
 </code></pre>
 
 ##Hyperlinks, Images and Videos
-We describe this in [this section](/docs/guides/imvid).
+We describe this in [this section](/docs/ide/tools/guides/imvid).
 
 ##HTML
 We plan to include support for white-listed HTML tags, so if you require this, please email support@codio.com.
