@@ -19,10 +19,9 @@ In the Deployment Targets dialog, you can:
 ##Destination
 The Destination drop down specifies the type of the target you are deploying to. Currently we support the following destinations (click on each one to find out about its associated parameters)
 
-- [Codio](/docs/deployment/type-codio/)
-- [FTP](/docs/deployment/type-ftp/)
-- [RYSNC](/docs/deployment/type-rsync/)
-- [SFTP](/docs/deployment/type-sftp/)
-- [Nodejitsu](/docs/deployment/type-nj/)
-- [Parse.com](/docs/deployment/type-parse/)
+- [FTP](/docs/ide/tools/deployment/type-ftp/)
+- [RYSNC](/docs/ide/tools/deployment/type-rsync/)
+- [SFTP](/docs/ide/tools/deployment/type-sftp/)
+- [Nodejitsu](/docs/ide/tools/deployment/type-nj/)
+- [Parse.com](/docs/ide/tools/deployment/type-parse/)
 

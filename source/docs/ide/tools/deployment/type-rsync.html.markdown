@@ -11,10 +11,10 @@ You can use a password and/or a public key for authentication.
 ![rsync dialog](/img/docs/deploy-rsync.png)
 
 ##Base Path
-We recommend you set the base path field for remote servers as [described here](/docs/deployment/basepath). This will be useful when using the [Preview](/docs/ide/inline-preview) feature.
+We recommend you set the base path field for remote servers as [described here](/docs/ide/tools/deployment/basepath). This will be useful when using the [Preview](/docs/ide/features/inline-preview) feature.
 
 ##Public Key Authentication
-Codio auto-generates a public key that is uniquely associated with your user account. You can find this public key in the [User Settings dialog](/docs/settings-prefs/account-settings/public-key). You should make sure that this public key is added to your remote server.
+Codio auto-generates a public key that is uniquely associated with your user account. You can find this public key in the [User Settings dialog](/docs/ide/customization/account-settings/public-key). You should make sure that this public key is added to your remote server.
 
 ##Protocol
 There are two options available
