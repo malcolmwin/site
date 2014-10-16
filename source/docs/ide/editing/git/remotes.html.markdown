@@ -7,7 +7,7 @@ full_width: true
 Most people will want to push to Github and other remote repos. There are various ways to manage this within Codio.
 
 ##Remotes and Github
-To work with Github, you need to set up your SSH keys properly as [described here](/docs/settings-prefs/account-settings/public-key/).
+To work with Github, you need to set up your SSH keys properly as [described here](/docs/ide/customization/account-settings/public-key).
 
 ##I have a remote repo
 If your starting point is a remote repo, then you should create a new project from the Codio dashboard. Create Project is an option above your project listings.
@@ -31,7 +31,7 @@ Once you have set up your remotes, you can now perform sharing and updating comm
 Try pushing your code to the remote using `git push --set-upstream origin master`. From now on you can use simply `git push` as the set-upstream command ensure `origin master` is used by default.
 
 ##Simplified Git Steps
-We will not attempt any sort of tutorial here, but the following steps cover the absolute basics of Git usage with a remote. If you are new to Git, then you should refer to the [resources page](/docs/git/resources).
+We will not attempt any sort of tutorial here, but the following steps cover the absolute basics of Git usage with a remote. If you are new to Git, then you should refer to the [resources page](/docs/ide/editing/git/resources).
 
 - `git status` gives you the status of your current branch
 - `git add .` adds all files, tracked or not, to the staged files

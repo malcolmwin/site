@@ -4,7 +4,7 @@ class_name: docs
 full_width: true
 ---
 
-GitHub let's you browse around a repo but it's not the same as using an IDE. Codio gives you a great way of viewing any GitHub (or Git) repo. For web apps, you can even run and [preview](/docs/ide/inline-preview) within Codio.
+GitHub let's you browse around a repo but it's not the same as using an IDE. Codio gives you a great way of viewing any GitHub (or Git) repo. For web apps, you can even run and [preview](/docs/ide/features/inline-preview) within Codio.
 
 ##Simple Approach
 The first approach is great for anyone wanting to put a simple button into a GitHub README page and then, when clicked, it creates a Codio fork in an anonymous account. 
@@ -42,7 +42,7 @@ The drawback with this approach is that any changes you make to the GitHub repo 
 ![create from GitHub](/img/docs/github-clone-url.png)
 
 - If you are on the GitHub site and looking at a repo, you will see the 'Clone URL' link (circled above).
-- Click to copy the link to the clipboard; if you clone using SSH, you must have added the Codio SSH public key first as [described here](/docs/settings-prefs/account-settings/public-key/)
+- Click to copy the link to the clipboard; if you clone using SSH, you must have added the Codio SSH public key first as [described here](/docs/ide/customization/account-settings/public-key)
 - Login to Codio
 - Click on 'Create Project'
 - Enter a project name, select the 'Clone a Git repo' and paste in the Git URL (see below)
@@ -54,18 +54,18 @@ The drawback with this approach is that any changes you make to the GitHub repo 
 If you are a repo maintainer and you want to offer a super fast way for people to see, in an IDE, your repo code or maybe a demo then...
 
 - follow the steps, described in the above section, to create a Codio project in your own account
-- now select the Project->Share menu item ([explained in detail here](/docs/ide/sharing))
-- Now select the Markdown option (circled below)
+- now select the Project->Share menu item ([explained in detail here](/docs/ide/features/sharing/))
+- Now select the Markdown option
 - Copy and paste one of the button options into your README.md file and you'll get a nice button your users can click
 
-![create from GitHub](/img/docs/github-share.png)
+![create from GitHub](/img/docs/sharing.png)
 
 Now, anyone viewing the README.md can click on the button and they'll be instantly taken to the project.
 
 ![create from GitHub](/img/docs/github-readme.png)
 
 
-And don't forget that Codio is [Git integrated](/docs/git), so you can update your project at any time simply by pulling from GitHub.
+And don't forget that Codio is [Git integrated](/docs/ide/editing/git), so you can update your project at any time simply by pulling from GitHub.
 
 ###Planned for later
 To make all this easier, we plan to add the following pretty soon

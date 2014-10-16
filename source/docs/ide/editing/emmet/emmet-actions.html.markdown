@@ -4,7 +4,7 @@ class_name: docs
 full_width: true
 ---
 
-Emmet also offers a very nice range of keyboard shortcuts to speed productivity even further. Keyboard actions can be modified in [Preferences](/docs/settings-prefs/codio-prefs)
+Emmet also offers a very nice range of keyboard shortcuts to speed productivity even further. Keyboard actions can be modified in [Preferences](/docs/ide/customization/codio-prefs)
 
 ##Match Tag Pair
 
