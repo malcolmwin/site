@@ -5,7 +5,7 @@ full_width: true
 tags: information, readme
 ---
 
-When you open up a project in the IDE, Codio will try to locate a file called readme.md in the root of the project. If it finds one and you have not opened the project beforehand, it will open and display it. 
+When you open up a project in the IDE, Codio will try to locate a file called readme.md in the root of the project. If it finds one and you have not opened the project beforehand, it will open and display it in 'markdown' mode. 
 
 ![readme info page](/img/docs/readme-md.png)
 
