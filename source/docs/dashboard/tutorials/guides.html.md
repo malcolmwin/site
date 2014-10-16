@@ -10,5 +10,5 @@ The general idea is that the student sees the content in one Codio IDE pane and 
 
 <iframe src="//player.vimeo.com/video/105219223" width="600" height="370" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Please refer to the [Guides documentation](/docs/guides) for full details.
+Please refer to the [Guides documentation](/docs/ide/tools/guides/) for full details.
 
