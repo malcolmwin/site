@@ -6,7 +6,7 @@ full_width: true
 
 Codio supports local and global search and replace. You can access these feature by hotkey or from the Find menu.
 
-Hotkey shortcuts can be seen in the Find menu. You can override these from [Preferences](/docs/settings-prefs/codio-prefs/).
+Hotkey shortcuts can be seen in the Find menu. You can override these from [Preferences](/docs/ide/customization/codio-prefs).
 
 ##Local
 Search and replace is supported on the currently selected file. 
