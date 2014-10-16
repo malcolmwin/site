@@ -17,4 +17,4 @@ Select your class and then press the 'Edit' button. This will bring up the class
 ##Searching for your course
 To narrow down the course list, you can use the search field and enter 'owner:username', for example. 
 
-For full details on searching, refer to the [advanced search](/docs/console/prj-search) section.
+For full details on searching, refer to the [advanced search](/docs/dashboard/projects/prj-search) section.

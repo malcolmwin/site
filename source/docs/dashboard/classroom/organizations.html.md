@@ -29,7 +29,7 @@ Organizations can be found in the main menu bar on the left side of your dashboa
 - finally, you can add additional 'owners' for your Organization
 - press 'Finish'' to create your organization
 
-You can read more about organizations [here](/docs/organizations).
+You can read more about organizations [here](/docs/dashboard/organizations).
 
 ![](docs/education/organizations.png)
 
