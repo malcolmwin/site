@@ -4,7 +4,7 @@ class_name: docs
 full_width: true
 ---
 
-Your Box will be stopped under the conditions [explained here](/docs/boxes/sleep).
+Your Box will be stopped under the conditions [explained here](/docs/boxes/aob/sleep).
 
 When you open your project, the Box will start instantly but, by default, any services will not be started automatically.
 

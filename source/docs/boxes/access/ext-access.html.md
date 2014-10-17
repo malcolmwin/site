@@ -36,6 +36,6 @@ Should you need it, the `X_FORWARDED_PROTO` header contains original request sch
 ##Preview Menu
 Codio offers a fully customizable Preview menu so you can preview both static files (.html) and server side files (.php files, Ruby and Node apps etc.) with a single click. 
 
-- [Preview documentation](/docs/ide/inline-preview)
+- [Preview documentation](/docs/ide/features/inline-preview)
 
 This feature lets you set up any number of 'aliases' both for static files and Box cli commands.

@@ -8,7 +8,7 @@ Codio does not currently allow sudo access to you Box. In practice, this should 
 
 You can also install software by downloading and compiling from source code.
 
-As covered in the next section, [Coding your own Packages](/docs/boxes/parts-coding/) you can also create your own Box Parts packages.
+As covered in the next section, [Coding your own Packages](/docs/boxes/installsw/parts-coding) you can also create your own Box Parts packages.
 
 
 ##Install Software tab
@@ -24,7 +24,7 @@ The easiest way to install software packages onto a Codio Box is from the 'Tools
 ![Install Software](/img/docs/install-software.png)
 
 ##Command Line
-You can also install Box Parts packages from the [command line](/docs/boxes/terminal).
+You can also install Box Parts packages from the [command line](/docs/boxes/terminal/terminal).
 
 Open up a Terminal window from the 'Tools->Terminal' menu item.
 
@@ -48,8 +48,8 @@ Then, enter `parts` on the command line, you will see something like this
 ##Preinstalled packages
 The are a several packages preinstalled on all Codio Boxes.
 
-- NodeJS (use nvm; please [refer to this section](/docs/specifics/node) for information on running NodeJS under nvm)
-- Ruby (uses rbenv; please [refer to this section](/docs/specifics/ruby) for information on running Ruby under rbenv)
+- NodeJS (uses nvm)
+- Ruby (uses rbenv)
 - Python 2.7.3 (Python 2.7.8 and 3.4 available as additional Box Parts)
 - Git, Mercurial and SVN
 - C/C++ Compilers
@@ -101,7 +101,7 @@ and to request the service status, use
 	parts status <package-name>
 	parts status (lists the status of services provided by all installed packages)
 
-When you close and restart your project (and therefore the Box), you will need to restart your services on restart. This can be done automatically or manually as [described here](/docs/boxes/startup).
+When you close and restart your project (and therefore the Box), you will need to restart your services on restart. This can be done automatically or manually as [described here](/docs/boxes/installsw/startup).
 
 ##Parts folder and config files
 Box Parts installs things in a special location where you have full access and control

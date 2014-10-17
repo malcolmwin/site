@@ -8,4 +8,4 @@ By default, other users with read and write permissions are not able to access y
 
 You can grant access, however, by assigning someone the Admin permission level.
 
-For full details, please refer to the [Permissions section](/docs/settings-prefs/permissions/) of the documentation.
+For full details, please refer to the [Permissions section](/docs/ide/customization/permissions) of the documentation.
