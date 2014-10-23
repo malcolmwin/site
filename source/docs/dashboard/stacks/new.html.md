@@ -19,7 +19,7 @@ TODO: Image with button circled
 The first thing you will need to specify is the Codio project that you want to use for your Stack blueprint. Click the elipsis to locate your project that you want to take the Stack from.
 
 ##Details, Image and Tags
-Next, add a short name for your Stack and a longer description. You can also add a more detailed overview of your Stack by selecting the "add a long description" link. You write this long description is written in Markdown and it can contain as much information about your Stack as you like.
+Next, add a short name for your Stack and a longer description. You can also add a more detailed overview of your Stack by selecting the "add a long description" link. You can write this long description in Markdown and it can contain as much information about your Stack as you like.
 
 You can also add an image to make your Stacks listing more instantly recognizable. This should be a square image, which will be reduced in size and will appear in a circle as shown below.
 

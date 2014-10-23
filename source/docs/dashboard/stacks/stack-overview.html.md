@@ -4,7 +4,7 @@ class_name: docs
 full_width: true
 ---
 
-Every Codio box comes with a clean Ubuntu server. However, Codio let's you configure your box by adding Stack components. A Stack component is software that can be installed using the 'Install Software' option and typically covers languages, databases, web servers and many other components as [described here](/docs/boxes/installsw).
+Every Codio box comes with a clean Ubuntu server. However, Codio lets you configure your box by adding Stack components. A Stack component is software that can be installed using the 'Install Software' option and typically covers languages, databases, web servers and many other components as [described here](/docs/boxes/installsw).
 
 Codio does not give you sudo access to your box. However, you will find that this rarely affects you. We still allow you access to all important commands without requiring the sudo prefix. Furthermore, you can still [install software components](/docs/boxes/installsw).
 
