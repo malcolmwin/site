@@ -71,7 +71,11 @@ header {
                 @include size(70px 25px);
                 line-height: 15px;
                 padding: 5px 10px;
-                margin: 1em;
+                margin: 19px;
+
+                &.signed-out {
+                    float: right;
+                }
             }
 
             @include media($large-screen) {
@@ -89,17 +93,15 @@ header {
 
 
     @include media(max-width $large-screen) {
-        a.actions.signed-out {
+        a.actions.userlink.signed-out {
             margin-top: $base-line-height;
 
             &.outline-button {
                 margin-top: 0;
             }
         }
-        a.actions#userlink {
-
-            margin-top: $base-line-height;
-
+        a.actions.userlink.signed-in {
+            margin-top: 19px;
         }
     }
 
@@ -107,34 +109,19 @@ header {
         display: none;
         padding: 0 10px;
 
-        &#userlink {
+        &.userlink {
             max-width: 155px;
 
-            #gravatar {
+            .gravatar {
                 border-radius: 50%;
-                width: 30px;
-                vertical-align: middle;
-                padding-right: 3px;
-            }
-        }
-
-        &#intercom {
-            vertical-align: bottom;
-            line-height: 48px;
-
-            .fa-stack {
-                @include size(32px);
-                padding-right: 3px;
+                width: 27px;
                 vertical-align: middle;
             }
-            .fa-stack-2x {
-                color: $base-accent-color;
-                font-size: 32px;
-            }
-            .fa-stack-1x {
-                color: white;
-                font-size: 16px;
-                line-height: 31px;
+
+            @include media($large-screen-up) {
+                span {
+                    display: none;
+                }
             }
         }
     }

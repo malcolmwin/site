@@ -5,7 +5,7 @@ date: 2014-12-02
 tags: 'Lab & Updates'
 class_name: blog
 full_width: true
-published: false
+image: /img/blog/landing-new-ui.png
 ---
 
 The Codio dev team has been busily working away for months now with a relentless focus on making Codio the most indispensable IDE experience for our users – so today we’re thrilled to share with you the fruits of their work - a brand new Codio experience packed full of new functionality and engineered with a total focus on delighting you at every stage of the experience.
@@ -22,7 +22,7 @@ You can select from a Codio certified and pre-configured library of software (la
 
 Alternatively, you can create your own Stacks.
 
-![Stacks Image](/img/docs/stacks_image.png)
+![Stacks Image](/img/blog/stacks-create.png)
 
 You can keep Stacks private to your projects or publish a stack for the community - and if you can’t find or create the stack you need, let us know in the forum.
 
@@ -34,14 +34,14 @@ We've also re-built the Codio site from the ground up.  We chose generative art 
 
 ![New Home Page](/img/blog/new-home-page.png)
 
-We've re-organised our documentation where new users can find a [quick start guide](/docs/quickstart) as well as detailed information on [stacks](/docs/dashboard/stacks) and [starter packs](/docs/dashboard/packs).
+We've re-organised our documentation where new users can find a [quick start guide](/docs/quickstart) as well as detailed information on [Stacks](/docs/dashboard/stacks) and [Starter Packs](/docs/dashboard/packs).
 
 ## Relentless Focus on Innovation
 
-In a [related blog post](/blog/articles/2014/12/education-sector-focus) today, we're also announcing a commitment to focus on the education sector.  In the near future you can expect much more from Codio, particularly in the areas of collaboration, tutorials & guides, and advanced features for teachers of computer programming.
+In a [related blog post](/blog/2014/12/education-sector-focus/) today, we're also announcing a commitment to focus on the education sector.  In the near future you can expect much more from Codio, particularly in the areas of collaboration, tutorials & guides, and advanced features for teachers of computer programming.
 
 We're spending more and more of our time interacting directly with current and prospective users and we're always listening to their experiences and looking for ways to reflect their needs and aspirations in the innovation we deliver.
 
-You can always share your ideas and feedback in our [forum](http://forum.codio.com), or contact us directly.
+You can always share your ideas and feedback in our [forum](http://forum.codio.com), or contact us [directly](mailto:hello@codio.com).
 
 We'll be more and more active keeping the community up to date, so stay tuned - you can also follow Codio on [Twitter](https://twitter.com/codiohq) for the latest news and status updates.

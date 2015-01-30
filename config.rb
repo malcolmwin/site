@@ -46,6 +46,10 @@ set :markdown, :no_intra_emphasis  => true,
 
 set :markdown_engine, :redcarpet
 
+activate :sitemap,
+         :gzip => false,
+         :hostname =>  "https://codio.com"
+
 activate :syntax
 
 activate :automatic_clowncar,
@@ -105,7 +109,10 @@ configure :build do
   # Minification and Compression
   activate :minify_css
   activate :minify_javascript
-  activate :minify_html
+  activate :minify_html do |html|
+    html.remove_http_protocol = false
+    html.remove_https_protocol = true
+  end
 
   # Disable in development
   #activate :imageoptim
