@@ -72,6 +72,7 @@ main > .header {
         font-size: 14px;
         border: 1px solid #9FB8D2;
         font-weight: 300;
+        background: #fff;
 
         @include media($tablet) {
           width: 180px;
