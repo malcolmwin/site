@@ -15,7 +15,7 @@
         </div>
         <div>
           <form id="search-input">
-            <%= image_tag "img/icons/search_icon.png" %>
+            <%= image_tag "icons/search_icon.png" %>
             <input type="text" placeholder="Search" id="st-search-input" class="st-search-input" />
           </form>
         </div>
@@ -29,7 +29,7 @@
             <% pages.each do |resource| %>
               <li>
                 <h2>
-                  <%= image_tag "img/new/lg/docs_#{resource.data.title.gsub(' ', '-').downcase}_lg.png" %>
+                  <%= image_tag "new/lg/docs_#{resource.data.title.gsub(' ', '-').downcase}_lg.png" %>
                 </h2>
                 <ul>
                   <% ordered(resource).each do |child| %>
